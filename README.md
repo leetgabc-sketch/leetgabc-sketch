@@ -1,16 +1,54 @@
-## Hi there 👋
+# 안녕하세요! 미디어콘텐츠 기획자 이태경입니다. 👋
 
-<!--
-**leetgabc-sketch/leetgabc-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+유원대학교 미디어콘텐츠학과에 재학 중이며, **대중과 상호작용하는 디지털 실감 미디어 콘텐츠 기획자**를 꿈꾸고 있습니다. 
+다양한 공공 문화예술 프로젝트 기획과 미디어아트 창작 경험을 바탕으로, 예술적 상상력을 최신 미디어 기술과 결합하여 사회적 가치를 전달하는 콘텐츠를 연구합니다.
 
-Here are some ideas to get you started:
+## 🎯 관심 분야 및 사용 도구 (Skills & Interests)
+- **관심 분야:** AI 실감미디어 디자인, 미디어아트 전시 기획, 지역 사회 연계 문화예술 프로젝트
+- **기획 및 디자인:** Photoshop, Illustrator 
+- **영상 제작:** Premiere Pro, After Effects
+- **문서 및 기타:** [한글, PowerPoint <img width="956" height="577" alt="1" src="https://github.com/user-attachments/assets/fb8cb537-2a5a-4006-ad2c-92c51d7bf78b" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 💡 주요 프로젝트 (Main Projects)
+
+### 1. Blooming nature (미디어아트 전시)
+- **활동 기간:** 2026.06
+- **프로젝트 소개:** 안산예술의전당에서 진행된 미디어아트 전시 기획 및 제작 참여
+- **본인 역할:** 참여 작가로서 실감형 전시 콘텐츠 디자인 및 구현
+- **결과물:** [<img width="956" height="577" alt="1" src="https://github.com/user-attachments/assets/82804e7a-5560-49df-8310-0e0c62c09f5f" />
+
+
+### 2. 수원문화재단 '뮤트(MUTE)' 활동
+- **활동 기간:** 2026.03 ~ 진행 중
+- **프로젝트 소개:** 시민과 소통하는 공공 문화예술 프로젝트 기획 및 현장 운영
+- **본인 역할:** 기획단원 (프로젝트 A-Z 기획 및 운영)
+
+### 3. 장수마을 'We are the world' 프로젝트 (라이즈 사업)
+- **활동 기간:** 2025.10 ~ 2025.12
+- **프로젝트 소개:** 유원대 연계 라이즈(RISE) 사업, 지역 사회 연계 문화예술 영상 콘텐츠 기획 및 촬영
+- **본인 역할:** 인터뷰 작가 및 영상 기획
+
+---
+
+## 🏃‍♂️ 기타 활동 및 수상 경력 (Extra Activities)
+
+### 1. '웰컴, 아산' 프로젝트
+- **활동 기간:** 2024.10
+- **활동 내용:** 아산문화재단 지원, 유원대 및 외부 공공기관 연계 프로젝트 기획
+- **본인 역할:** 프로젝트 총괄 기획 및 현장 운영
+
+### 2. 아산고용복지플러스센터 숏폼 공모전
+- **수상일자:** 2025.12
+- **활동 내용:** 뉴미디어 트렌드를 반영한 숏폼 콘텐츠 기획 및 제작
+- **수상 내역:** 장려상 (수여 기관: 대전지방고용노동청 천안지청)
+
+---
+
+## 🌱 앞으로의 목표
+그동안 현장에서 쌓아온 공공 문화예술 프로젝트 기획 경험을 확장하여, AI 기술과 미디어아트를 접목한 혁신적인 실감형 문화콘텐츠 기획 및 전시 모델을 구축하는 전문가로 성장하겠습니다.
+
+## 🔗 링크 및 연락처
+- **Email:** leetgabc@naver.com
