@@ -7,7 +7,7 @@
 - **관심 분야:** AI 실감미디어 디자인, 미디어아트 전시 기획, 지역 사회 연계 문화예술 프로젝트
 - **기획 및 디자인:** Photoshop, Illustrator 
 - **영상 제작:** Premiere Pro, After Effects
-- **문서 및 기타:** [한글, PowerPoint <img width="956" height="577" alt="1" src="https://github.com/user-attachments/assets/fb8cb537-2a5a-4006-ad2c-92c51d7bf78b" />
+- **문서 및 기타:** 한글, PowerPoint 
 
 
 ---
