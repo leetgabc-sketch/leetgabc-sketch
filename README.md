@@ -1,4 +1,3 @@
-<img width="951" height="900" alt="image" src="https://github.com/user-attachments/assets/f25d9736-0588-4a81-91d7-82c338897c95" /><img width="951" height="900" alt="스크린샷 2026-10-20 155807" src="https://github.com/user-attachments/assets/1f044d0f-c140-4b91-b7e1-0c3f6855e633" />
 # 안녕하세요! 미디어콘텐츠 기획자 이태경입니다. 👋
 
 유원대학교 미디어콘텐츠학과에 재학 중이며, **대중과 상호작용하는 디지털 실감 미디어 콘텐츠 기획자**를 꿈꾸고 있습니다. 
@@ -28,10 +27,13 @@
 - **프로젝트 소개:** 시민과 소통하는 공공 문화예술 프로젝트 기획 및 현장 운영
 - **본인 역할:** 기획단원 (프로젝트 A-Z 기획 및 운영)
 
+
+
 ### 3. 장수마을 'We are the world' 프로젝트 (라이즈 사업)
 - **활동 기간:** 2025.10 ~ 2025.12
 - **프로젝트 소개:** 유원대 연계 라이즈(RISE) 사업, 지역 사회 연계 문화예술 영상 콘텐츠 기획 및 촬영
 - **본인 역할:** 인터뷰 작가 및 영상 기획
+<img width="600" height="847" alt="1042739_548071_2527" src="https://github.com/user-attachments/assets/b1a81c48-8fd5-4271-b051-fda5e789b1ee" />
 
 ---
 
@@ -41,12 +43,14 @@
 - **활동 기간:** 2024.10
 - **활동 내용:** 아산문화재단 지원, 유원대 및 외부 공공기관 연계 프로젝트 기획
 - **본인 역할:** 프로젝트 기획 및 현장 운영
+<img width="580" height="819" alt="1727661295 ADD_thumb580" src="https://github.com/user-attachments/assets/4f09c1dd-33d7-40a8-93f1-1b3dfd1db4f9" />
 
 ### 2. 아산고용복지플러스센터 숏폼 공모전
 - **수상일자:** 2025.12
 - **활동 내용:** 뉴미디어 트렌드를 반영한 숏폼 콘텐츠 기획 및 제작
 - **수상 내역:** 장려상 (수여 기관: 대전지방고용노동청 천안지청)
-![Uploading 스크린샷 2026-10-20 155807.png…]()
+<img width="951" height="900" alt="스크린샷 2026-10-20 155807" src="https://github.com/user-attachments/assets/cfd7a2b9-4623-44f8-b806-bb54750fb5ca" />
+
 
 ---
 
